@@ -1,5 +1,5 @@
 # myConfig.json
 {
-  "fileUris": ["https://raw.githubusercontent.com/yourrepo/master/vmss_script.sh"],
+  "fileUris": ["https://raw.githubusercontent.com/przemykk/mslearn-tailspin-spacegame-web/master/vmss_script.sh"],
   "commandToExecute": "./vmss_script.sh"
 }
